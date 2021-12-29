@@ -5,7 +5,7 @@ var config = {
     texts: [
         "今天是你的生日",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "祝你生日快乐",  // 同上...
-        "愿你享受美食青春永驻",
+        "愿你青春永驻",
         "愿你做过的美梦都能实现",
         "愿你永远都有好运气",
         "愿这岁月悠长",
@@ -30,11 +30,11 @@ var config = {
     desc: {
         turn_on: "开灯",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "生日快乐",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        wish_message: "开心快乐每一天",
         story: "A MESSAGE FOR YOU",
     }
 };
